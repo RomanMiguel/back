@@ -2,7 +2,7 @@ import express from "express"
 import session from "express-session";
 import cors from "cors"
 import compression from "compression";
-import { routerProducts, routerCart, routerUser, routerInfo } from "./routers";
+import { routerCart, routerProducts, routerUser, routerInfo } from "./routers";
 import logger from "./utils/logger";
 import "./config/db"
 
@@ -28,6 +28,6 @@ app.use ( '/api/carrito'    , routerCart );
 app.use ( '/api/user'       , routerUser );
 app.use ( '/api/info'       , routerInfo );
 
-const PORT = process.argv[2] || 8080;
+const PORT = process.env.PORT || 8080;
 
 app.listen( PORT , () => logger.info('server started'));
