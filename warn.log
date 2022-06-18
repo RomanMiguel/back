@@ -98,3 +98,352 @@
   level: 'info',
   timestamp: '2022-06-16T00:09:21.284Z'
 }
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-16T22:06:59.854Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-16T22:07:00.452Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-17T01:50:33.557Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-17T01:50:34.139Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-17T01:53:19.178Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-17T01:53:19.741Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-17T02:02:47.718Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-17T02:02:48.298Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-17T20:17:31.121Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-17T20:17:36.700Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-17T22:42:53.268Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-17T22:42:55.468Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-17T22:43:52.816Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-17T22:43:53.321Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-17T23:09:38.463Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-17T23:09:44.247Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:04:57.142Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:05:03.375Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:10:58.540Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:11:04.252Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:12:53.491Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:12:54.060Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:13:04.687Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:13:05.192Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:13:06.141Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:13:06.636Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:13:33.233Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:13:33.728Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:13:43.812Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:13:44.635Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:14:42.997Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:14:44.204Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:15:06.779Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:15:12.284Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:15:35.626Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:15:36.156Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:16:46.691Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:17:13.156Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:17:13.745Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:17:26.808Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:17:27.312Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:18:06.453Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:18:08.155Z'
+}
+{
+  level: 'info',
+  message: 'Error  data must be a string or Buffer and salt must either be a salt string or a number of rounds',
+  stack: 'Error: data must be a string or Buffer and salt must either be a salt string or a number of rounds\n' +
+    '    at Object.hashSync (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/bcrypt/bcrypt.js:95:15)\n' +
+    '    at Strategy._verify (file:///media/miguel/data/4-BackEnd/Desafios/back/src/utils/passport.js:24:34)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)',
+  timestamp: '2022-06-18T00:18:12.202Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:20:35.099Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:20:35.681Z'
+}
+{
+  level: 'info',
+  message: 'Error passport signup:  data must be a string or Buffer and salt must either be a salt string or a number of rounds',
+  stack: 'Error: data must be a string or Buffer and salt must either be a salt string or a number of rounds\n' +
+    '    at Object.hashSync (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/bcrypt/bcrypt.js:95:15)\n' +
+    '    at Strategy._verify (file:///media/miguel/data/4-BackEnd/Desafios/back/src/utils/passport.js:24:34)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)',
+  timestamp: '2022-06-18T00:20:38.559Z'
+}
+{
+  errors: {
+    fullName: ValidatorError: Path `fullName` is required.
+        at validate (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/mongoose/lib/schematype.js:1330:13)
+        at SchemaString.SchemaType.doValidate (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/mongoose/lib/schematype.js:1314:7)
+        at /media/miguel/data/4-BackEnd/Desafios/back/node_modules/mongoose/lib/document.js:2753:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `fullName` is required.',
+        type: 'required',
+        path: 'fullName',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'fullName',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Usuarios validation failed',
+  level: 'info',
+  message: 'Error passport signup:  Usuarios validation failed: fullName: Path `fullName` is required.',
+  stack: 'ValidationError: Usuarios validation failed: fullName: Path `fullName` is required.\n' +
+    '    at model.Document.invalidate (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/mongoose/lib/document.js:2972:32)\n' +
+    '    at /media/miguel/data/4-BackEnd/Desafios/back/node_modules/mongoose/lib/document.js:2761:17\n' +
+    '    at /media/miguel/data/4-BackEnd/Desafios/back/node_modules/mongoose/lib/schematype.js:1333:9\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:78:11)',
+  timestamp: '2022-06-18T00:21:04.213Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:22:08.995Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:22:09.871Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:22:36.120Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:22:36.941Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:31:14.392Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:31:20.384Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:39:20.054Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:39:20.665Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:40:53.087Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:40:53.623Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:42:23.575Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:42:25.269Z'
+}
+{
+  message: 'Usuario no encontrado!',
+  level: 'info',
+  timestamp: '2022-06-18T00:42:43.241Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:45:20.133Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:45:31.016Z'
+}

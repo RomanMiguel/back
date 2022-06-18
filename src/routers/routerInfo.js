@@ -2,7 +2,7 @@ import { Router } from "express"
 import minimist from "minimist";
 import os from "os";
 
-export const routerInfo = Router();
+const routerInfo = Router();
 
 routerInfo.get("/", ( req, res ) => {
     
@@ -19,3 +19,5 @@ routerInfo.get("/", ( req, res ) => {
         procesadores: os.cpus().lenght 
     })
 })
+
+export default routerInfo;
