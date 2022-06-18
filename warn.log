@@ -517,3 +517,13 @@
   level: 'info',
   timestamp: '2022-06-18T02:09:57.452Z'
 }
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T22:46:58.387Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T22:46:59.388Z'
+}

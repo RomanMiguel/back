@@ -1,16 +1,16 @@
 import { Router } from 'express'
 import { createCart, deleteCart, getAllProducts, addProduct, deleteProduct } from '../controllers/controllerCarts'
 
-const routerCart = Router();
+const router = Router();
 
-routerCart.post('/', createCart )
+router.post('/', createCart )
 
-routerCart.delete('/:id_cart', deleteCart )
+router.delete('/:id_cart', deleteCart )
 
-routerCart.get('/:id_cart/productos', getAllProducts )
+router.get('/:id_cart/productos', getAllProducts )
 
-routerCart.post('/:id_cart/productos/:id_prod', addProduct )
+router.post('/:id_cart/productos/:id_prod', addProduct )
 
-routerCart.delete('/:id_cart/productos/:id_prod', deleteProduct)
+router.delete('/:id_cart/productos/:id_prod', deleteProduct)
 
-export default routerCart;
+export default router;
