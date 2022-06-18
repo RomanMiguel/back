@@ -447,3 +447,73 @@
   level: 'info',
   timestamp: '2022-06-18T00:45:31.016Z'
 }
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T00:51:18.583Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T00:51:20.148Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T01:37:19.443Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T01:37:20.060Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T01:37:56.458Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T01:37:56.950Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T01:46:09.841Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T01:46:11.833Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T01:49:30.269Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T01:49:31.620Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T02:08:27.178Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T02:08:27.780Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-18T02:09:56.898Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-18T02:09:57.452Z'
+}
