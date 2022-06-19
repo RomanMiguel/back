@@ -1,4 +1,4 @@
-import { Contenedor } from '../services/products.services';
+import { Contenedor } from '../services/products.services.js';
 
 const productos = new Contenedor();
 

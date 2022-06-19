@@ -1,8 +1,8 @@
 import passport from "passport";
 import { Strategy } from "passport-local";
 import bcrypt from "bcrypt";
-import { UserModel } from "../modelos/user.models"
-import logger from "../utils/logger"
+import { UserModel } from "../modelos/user.models.js"
+import logger from "../utils/logger.js"
 
 passport.use("signup", new Strategy( { passReqToCallback: true },
 

@@ -1,4 +1,4 @@
-import { Cart } from '../services/cart.services'
+import { Cart } from '../services/cart.services.js'
 
 let dataCart = new Cart()
 

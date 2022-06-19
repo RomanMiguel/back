@@ -1,5 +1,5 @@
 import { Router } from "express";
-import passport from "../utils/passport";
+import passport from "../utils/passport.js";
 
 const routerUser = Router();
 

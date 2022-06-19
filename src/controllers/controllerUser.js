@@ -1,5 +1,5 @@
 import jwt from "jsonwebtoken";
-import { UserModel } from "../modelos/user.models";
+import { UserModel } from "../modelos/user.models.js";
 
 export const signup = async (req, res) => {
     

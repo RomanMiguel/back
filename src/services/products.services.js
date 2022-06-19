@@ -1,5 +1,5 @@
-import "../config/db"
-import { ProductosModel } from "../modelos/productos.modules"
+import "../config/db.js"
+import { ProductosModel } from "../modelos/productos.modules.js"
 
 export class Contenedor {
     

@@ -1,6 +1,6 @@
 import "../config/db"
-import { CarritosModel } from "../modelos/carrito.modules"
-import { ProductosModel } from "../modelos/productos.modules"
+import { CarritosModel } from "../modelos/carrito.modules.js"
+import { ProductosModel } from "../modelos/productos.modules.js"
 
 export class Cart {
 
