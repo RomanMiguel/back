@@ -1,4 +1,4 @@
-import "../config/db"
+import "../config/db.js"
 import { CarritosModel } from "../modelos/carrito.modules.js"
 import { ProductosModel } from "../modelos/productos.modules.js"
 
