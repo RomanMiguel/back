@@ -6,7 +6,7 @@ import compression from "compression";
 
 // import routerCart from "./routers/routerCart";
 // import routerInfo from "./routers/routerInfo";
-import routerProducts from "./routers/routerProducts";
+import routerProducts from "./routers/routerProducts.js";
 // import routerUser from "./routers/routerUser";
 
 import passport from "./utils/passport";
