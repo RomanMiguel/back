@@ -4,10 +4,10 @@ import mongoStore from "connect-mongo";
 import cors from "cors"
 import compression from "compression";
 
-import routerCart from "./routers/routerCart";
-import routerInfo from "./routers/routerInfo";
+// import routerCart from "./routers/routerCart";
+// import routerInfo from "./routers/routerInfo";
 import routerProducts from "./routers/routerProducts";
-import routerUser from "./routers/routerUser";
+// import routerUser from "./routers/routerUser";
 
 import passport from "./utils/passport";
 import logger from "./utils/logger";
@@ -37,9 +37,9 @@ app.use ( session ( {
 } ) );
 
 app.use ( '/api/productos'  , routerProducts );
-app.use ( '/api/carrito'    , routerCart );
-app.use ( '/api/user'       , routerUser );
-app.use ( '/api/info'       , routerInfo );
+// app.use ( '/api/carrito'    , routerCart );
+// app.use ( '/api/user'       , routerUser );
+// app.use ( '/api/info'       , routerInfo );
 
 app.use ( passport.initialize () );
 app.use ( passport.session () );
