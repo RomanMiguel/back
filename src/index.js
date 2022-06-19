@@ -9,9 +9,9 @@ import compression from "compression";
 import routerProducts from "./routers/routerProducts.js";
 // import routerUser from "./routers/routerUser";
 
-import passport from "./utils/passport";
-import logger from "./utils/logger";
-import "./config/db"
+import passport from "./utils/passport.js";
+import logger from "./utils/logger.js";
+import "./config/db.js"
 
 const app = express();
 
