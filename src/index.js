@@ -4,10 +4,10 @@ import mongoStore from "connect-mongo";
 import cors from "cors"
 import compression from "compression";
 
-import routerCart from "./src/routers/routerCart";
-import routerInfo from "./src/routers/routerInfo";
-import routerProducts from "./src/routers/routerProducts";
-import routerUser from "./src/routers/routerUser";
+import routerCart from "../routers/routerCart";
+import routerInfo from "../routers/routerInfo";
+import routerProducts from "../routers/routerProducts";
+import routerUser from "../routers/routerUser";
 
 import passport from "./utils/passport";
 import logger from "./utils/logger";
