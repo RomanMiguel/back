@@ -4,13 +4,9 @@ import mongoStore from "connect-mongo";
 import cors from "cors"
 import compression from "compression";
 
-import routerCart from "./routers/routerCart.js";
-import routerInfo from "./routers/routerInfo.js";
-import routerProducts from "./routers/routerProducts.js";
-import routerUser from "./routers/routerUser.js";
+import { routerCart, routerProducts, routerUser, routerInfo } from "./routers/index.js";
+import { passport, logger } from "./utils/index.js";
 
-import passport from "./utils/passport.js";
-import logger from "./utils/logger.js";
 import "./config/db.js"
 
 const app = express();

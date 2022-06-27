@@ -577,3 +577,68 @@
   level: 'info',
   timestamp: '2022-06-23T12:42:39.418Z'
 }
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-27T22:34:08.660Z'
+}
+{
+  message: '❌ Error al conectarse a MongoDB',
+  level: 'error',
+  timestamp: '2022-06-27T22:34:54.788Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-27T22:35:07.787Z'
+}
+{
+  message: '❌ Error al conectarse a MongoDB',
+  level: 'error',
+  timestamp: '2022-06-27T22:35:07.792Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-27T22:35:29.979Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-27T22:36:28.469Z'
+}
+{
+  message: '❌ Error al conectarse a MongoDB',
+  level: 'error',
+  timestamp: '2022-06-27T22:36:28.473Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-27T22:37:21.025Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-27T22:37:51.132Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-27T22:38:02.178Z'
+}
+{
+  message: '❌ Error al conectarse a MongoDB',
+  level: 'error',
+  timestamp: '2022-06-27T22:38:02.184Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-27T22:38:33.186Z'
+}
+{
+  message: '❌ Error al conectarse a MongoDB',
+  level: 'error',
+  timestamp: '2022-06-27T22:38:33.191Z'
+}
