@@ -7,7 +7,7 @@ const routerUser = Router();
 
 routerUser.post("/signup", passport.authenticate( "signup", {failureRedirect:"failSignup"}),
     (req, res) => {
-        res.json( { msg: "Registrado con exito : "+ req.body.username} )
+        res.json( { user: req.body.username } )
     }
 );
 
@@ -17,12 +17,11 @@ routerUser.post("/failSignup", (req, res) => {
 
 
 
-
 // Login
 
 routerUser.post("/login", passport.authenticate("login", { failureRedirect: "/failLogin" }),
     (req, res) => {
-        res.json( { msg: "Bienvenido : "+ req.body.username} )
+        res.json( { user: req.body.username} )
     }
 )
 

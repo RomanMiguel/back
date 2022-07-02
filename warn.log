@@ -642,3 +642,787 @@
   level: 'error',
   timestamp: '2022-06-27T22:38:33.191Z'
 }
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-29T22:37:10.438Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-29T22:37:11.117Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-29T23:30:33.338Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-29T23:30:34.053Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-30T13:11:28.697Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-30T13:11:29.352Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-06-30T13:25:32.462Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-30T13:25:33.060Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T18:55:29.730Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T18:55:30.351Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T18:55:33.220Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T18:55:37.511Z'
+}
+{
+  message: {
+    accepted: [ 'mgroman96@gmail.com' ],
+    rejected: [],
+    envelopeTime: 727,
+    messageTime: 663,
+    messageSize: 464,
+    response: '250 2.0.0 OK  1656702216 n14-20020aca240e000000b00325cda1ffb4sm11681374oic.51 - gsmtp',
+    envelope: {
+      from: 'saige.rolfson3@ethereal.email',
+      to: [ 'mgroman96@gmail.com' ]
+    },
+    messageId: '<3a3ba6cc-d52e-f0a4-9986-aebbfc9ffb18@ethereal.email>'
+  },
+  level: 'info',
+  timestamp: '2022-07-01T19:03:36.467Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T20:33:49.392Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T20:33:51.210Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T20:42:05.712Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T20:42:08.838Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:00:34.531Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:00:50.681Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:00:54.095Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:01:42.974Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:01:45.659Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:01:49.223Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:01:50.802Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:12:26.893Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:12:29.997Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:35:00.949Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:35:01.557Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:36:31.913Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:36:37.901Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:38:49.654Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:38:50.263Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:39:26.393Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:39:26.940Z'
+}
+{
+  message: {
+    accepted: [ 'mgroman96@gmail.com' ],
+    rejected: [],
+    envelopeTime: 893,
+    messageTime: 741,
+    messageSize: 302,
+    response: '250 2.0.0 OK  1656711577 x10-20020a9d704a000000b00616d98ad780sm7275425otj.52 - gsmtp',
+    envelope: {
+      from: 'saige.rolfson3@ethereal.email',
+      to: [ 'mgroman96@gmail.com' ]
+    },
+    messageId: '<a7743867-1526-7ab0-ce4f-a921f1dda75d@ethereal.email>'
+  },
+  level: 'info',
+  timestamp: '2022-07-01T21:39:38.063Z'
+}
+{
+  message: {
+    accepted: [ 'mgroman96@gmail.com' ],
+    rejected: [],
+    envelopeTime: 829,
+    messageTime: 718,
+    messageSize: 310,
+    response: '250 2.0.0 OK  1656711647 f20-20020a0568301c3400b00616dc493267sm6995871ote.58 - gsmtp',
+    envelope: {
+      from: 'saige.rolfson3@ethereal.email',
+      to: [ 'mgroman96@gmail.com' ]
+    },
+    messageId: '<ca1d13c9-5464-f2c1-858b-aa083ee119f6@ethereal.email>'
+  },
+  level: 'info',
+  timestamp: '2022-07-01T21:40:47.346Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:41:42.884Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:41:43.628Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:42:02.120Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:42:02.756Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:42:19.249Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:42:21.794Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:46:20.456Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:46:24.504Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:47:02.222Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:47:14.511Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:49:09.146Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:49:10.048Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:49:41.786Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:49:42.271Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:50:34.701Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:50:35.763Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:51:56.473Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:51:57.028Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:55:03.410Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:55:03.946Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:55:45.803Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:55:46.288Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:56:18.374Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:56:18.887Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:57:34.949Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:57:35.514Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:58:36.420Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:58:36.962Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:58:50.207Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:58:50.712Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T21:59:01.055Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T21:59:01.562Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T22:00:03.314Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T22:00:03.895Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T22:00:15.421Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T22:00:15.949Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T22:00:55.379Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T22:00:55.899Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T22:01:32.410Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T22:01:32.941Z'
+}
+{
+  message: {
+    accepted: [ 'mgroman96@gmail.com' ],
+    rejected: [],
+    envelopeTime: 612,
+    messageTime: 1582,
+    messageSize: 520,
+    response: '250 2.0.0 OK  1656712903 22-20020aca1116000000b003263cf0f282sm11845544oir.26 - gsmtp',
+    envelope: {
+      from: 'saige.rolfson3@ethereal.email',
+      to: [ 'mgroman96@gmail.com' ]
+    },
+    messageId: '<cacea0ac-e61e-9ee5-3b18-6fa4f3305895@ethereal.email>'
+  },
+  level: 'info',
+  timestamp: '2022-07-01T22:01:43.184Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T23:21:14.617Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T23:21:15.234Z'
+}
+{
+  message: {
+    accepted: [ 'mgroman96@gmail.com' ],
+    rejected: [],
+    envelopeTime: 618,
+    messageTime: 753,
+    messageSize: 520,
+    response: '250 2.0.0 OK  1656717700 d9-20020a05683025c900b00616e2d2204csm6665448otu.21 - gsmtp',
+    envelope: {
+      from: 'saige.rolfson3@ethereal.email',
+      to: [ 'mgroman96@gmail.com' ]
+    },
+    messageId: '<77ecfd8a-cda9-f9e8-76a0-31b29849bd90@ethereal.email>'
+  },
+  level: 'info',
+  timestamp: '2022-07-01T23:21:40.817Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-01T23:23:44.814Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-01T23:23:47.739Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-02T00:02:50.269Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-02T00:02:50.881Z'
+}
+{
+  message: {
+    accepted: [ 'mgroman96@gmail.com' ],
+    rejected: [],
+    envelopeTime: 854,
+    messageTime: 825,
+    messageSize: 531,
+    response: '250 2.0.0 OK  1656720177 r19-20020a0568301ad300b0060bfb08741esm13125618otc.12 - gsmtp',
+    envelope: {
+      from: 'saige.rolfson3@ethereal.email',
+      to: [ 'mgroman96@gmail.com' ]
+    },
+    messageId: '<52e4112a-9e11-486f-33ad-1ea8d390ec7b@ethereal.email>'
+  },
+  level: 'info',
+  timestamp: '2022-07-02T00:02:57.560Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-02T00:05:21.214Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-02T00:05:22.425Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-02T00:06:37.647Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-02T00:06:38.240Z'
+}
+{
+  status: 400,
+  code: 21608,
+  moreInfo: 'https://www.twilio.com/docs/errors/21608',
+  details: undefined,
+  level: 'error',
+  message: 'Error sms:  The number  is unverified. Trial accounts cannot send messages to unverified numbers; verify  at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers.',
+  stack: 'Error: The number  is unverified. Trial accounts cannot send messages to unverified numbers; verify  at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers.\n' +
+    '    at success (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/twilio/lib/base/Version.js:135:15)\n' +
+    '    at Promise_then_fulfilled (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:766:44)\n' +
+    '    at Promise_done_fulfilled (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:835:31)\n' +
+    '    at Fulfilled_dispatch [as dispatch] (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:1229:9)\n' +
+    '    at Pending_become_eachMessage_task (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:1369:30)\n' +
+    '    at RawTask.call (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/asap/asap.js:40:19)\n' +
+    '    at flush (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/asap/raw.js:50:29)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:78:11)',
+  timestamp: '2022-07-02T00:06:48.068Z'
+}
+{
+  message: {
+    accepted: [ 'mgroman96@gmail.com' ],
+    rejected: [],
+    envelopeTime: 642,
+    messageTime: 779,
+    messageSize: 543,
+    response: '250 2.0.0 OK  1656720409 p12-20020a9d4e0c000000b00616ec82b29bsm5694445otf.35 - gsmtp',
+    envelope: {
+      from: 'saige.rolfson3@ethereal.email',
+      to: [ 'mgroman96@gmail.com' ]
+    },
+    messageId: '<0bfc53e4-442e-6a31-060d-959c7e9dcbfc@ethereal.email>'
+  },
+  level: 'info',
+  timestamp: '2022-07-02T00:06:49.349Z'
+}
+{
+  status: 400,
+  code: 21608,
+  moreInfo: 'https://www.twilio.com/docs/errors/21608',
+  details: undefined,
+  level: 'error',
+  message: 'Error sms:  The number  is unverified. Trial accounts cannot send messages to unverified numbers; verify  at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers.',
+  stack: 'Error: The number  is unverified. Trial accounts cannot send messages to unverified numbers; verify  at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers.\n' +
+    '    at success (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/twilio/lib/base/Version.js:135:15)\n' +
+    '    at Promise_then_fulfilled (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:766:44)\n' +
+    '    at Promise_done_fulfilled (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:835:31)\n' +
+    '    at Fulfilled_dispatch [as dispatch] (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:1229:9)\n' +
+    '    at Pending_become_eachMessage_task (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:1369:30)\n' +
+    '    at RawTask.call (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/asap/asap.js:40:19)\n' +
+    '    at flush (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/asap/raw.js:50:29)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:78:11)',
+  timestamp: '2022-07-02T00:12:40.873Z'
+}
+{
+  message: {
+    accepted: [ 'mgroman96@gmail.com' ],
+    rejected: [],
+    envelopeTime: 689,
+    messageTime: 629,
+    messageSize: 543,
+    response: '250 2.0.0 OK  1656720762 l6-20020a056871068600b000f5eb6b409bsm16419792oao.45 - gsmtp',
+    envelope: {
+      from: 'saige.rolfson3@ethereal.email',
+      to: [ 'mgroman96@gmail.com' ]
+    },
+    messageId: '<1f5491e2-6c8f-eac3-06e7-5796038a0d6d@ethereal.email>'
+  },
+  level: 'info',
+  timestamp: '2022-07-02T00:12:42.210Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-02T00:15:48.471Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-02T00:15:49.102Z'
+}
+{
+  message: {
+    body: 'Sent from your Twilio trial account - Su pedido fue recibido y se encuentra en proceso\n' +
+      '        PEDIDOS:\n' +
+      '        nombre: BOTINES DE FUTBOL KAPPA FORCE FG AZUL, precio: 6499\n' +
+      '            ,nombre: BOTINES DE FUTBOL KAPPA FORCE FG AZUL, precio: 6499\n' +
+      '            ,nombre: BOTINES DE FUTBOL KAPPA FORCE FG AZUL, precio: 6499',
+    numSegments: '3',
+    direction: 'outbound-api',
+    from: '+19783545484',
+    to: '+541133107886',
+    dateUpdated: 2022-07-02T00:15:52.000Z,
+    price: null,
+    errorMessage: null,
+    uri: '/2010-04-01/Accounts/ACe33237d597d725bd7e304ea1dde8d937/Messages/SM24503d1a3789453b97b425e0fe9e58bd.json',
+    accountSid: 'ACe33237d597d725bd7e304ea1dde8d937',
+    numMedia: '0',
+    status: 'queued',
+    messagingServiceSid: null,
+    sid: 'SM24503d1a3789453b97b425e0fe9e58bd',
+    dateSent: null,
+    dateCreated: 2022-07-02T00:15:52.000Z,
+    errorCode: null,
+    priceUnit: 'USD',
+    apiVersion: '2010-04-01',
+    subresourceUris: {
+      media: '/2010-04-01/Accounts/ACe33237d597d725bd7e304ea1dde8d937/Messages/SM24503d1a3789453b97b425e0fe9e58bd/Media.json'
+    }
+  },
+  level: 'info',
+  timestamp: '2022-07-02T00:15:52.727Z'
+}
+{
+  message: {
+    accepted: [ 'mgroman96@gmail.com' ],
+    rejected: [],
+    envelopeTime: 650,
+    messageTime: 745,
+    messageSize: 543,
+    response: '250 2.0.0 OK  1656720953 x27-20020a9d459b000000b0060c0c6e9186sm8347923ote.15 - gsmtp',
+    envelope: {
+      from: 'saige.rolfson3@ethereal.email',
+      to: [ 'mgroman96@gmail.com' ]
+    },
+    messageId: '<3b1e6951-6f69-a736-5da5-919d2a9c4aad@ethereal.email>'
+  },
+  level: 'info',
+  timestamp: '2022-07-02T00:15:53.935Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-02T00:20:40.404Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-02T00:20:41.164Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-02T00:20:47.356Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-02T00:20:47.959Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-02T00:21:11.002Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-02T00:21:11.562Z'
+}
+{
+  message: {
+    body: 'Sent from your Twilio trial account - Su pedido fue recibido y se encuentra en proceso\n' +
+      '        PEDIDOS:\n' +
+      '        nombre: BOTINES DE FUTBOL KAPPA FORCE FG AZUL, precio: 6499\n' +
+      '            ,nombre: BOTINES DE FUTBOL KAPPA FORCE FG AZUL, precio: 6499\n' +
+      '            ,nombre: BOTINES DE FUTBOL KAPPA FORCE FG AZUL, precio: 6499',
+    numSegments: '3',
+    direction: 'outbound-api',
+    from: '+19783545484',
+    to: '+541133107886',
+    dateUpdated: 2022-07-02T00:21:23.000Z,
+    price: null,
+    errorMessage: null,
+    uri: '/2010-04-01/Accounts/ACe33237d597d725bd7e304ea1dde8d937/Messages/SM912ea94d83324811a002d4a3482cbcc1.json',
+    accountSid: 'ACe33237d597d725bd7e304ea1dde8d937',
+    numMedia: '0',
+    status: 'queued',
+    messagingServiceSid: null,
+    sid: 'SM912ea94d83324811a002d4a3482cbcc1',
+    dateSent: null,
+    dateCreated: 2022-07-02T00:21:23.000Z,
+    errorCode: null,
+    priceUnit: 'USD',
+    apiVersion: '2010-04-01',
+    subresourceUris: {
+      media: '/2010-04-01/Accounts/ACe33237d597d725bd7e304ea1dde8d937/Messages/SM912ea94d83324811a002d4a3482cbcc1/Media.json'
+    }
+  },
+  level: 'info',
+  timestamp: '2022-07-02T00:21:23.772Z'
+}
+{
+  message: {
+    accepted: [ 'mgroman96@gmail.com' ],
+    rejected: [],
+    envelopeTime: 587,
+    messageTime: 766,
+    messageSize: 543,
+    response: '250 2.0.0 OK  1656721284 i16-20020a05683033f000b00616b835f5e7sm11542145otu.43 - gsmtp',
+    envelope: {
+      from: 'saige.rolfson3@ethereal.email',
+      to: [ 'mgroman96@gmail.com' ]
+    },
+    messageId: '<c5f97562-b17a-7a15-6ba7-7ec78f6d43a2@ethereal.email>'
+  },
+  level: 'info',
+  timestamp: '2022-07-02T00:21:24.874Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-02T00:23:14.415Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-02T00:23:15.109Z'
+}
+{
+  message: {
+    body: 'Sent from your Twilio trial account - Su pedido fue recibido y se encuentra en proceso\n' +
+      '        PEDIDOS:\n' +
+      '        nombre: BOTINES DE FUTBOL KAPPA FORCE FG AZUL, precio: 6499\n' +
+      '            ,nombre: BOTINES DE FUTBOL KAPPA FORCE FG AZUL, precio: 6499\n' +
+      '            ,nombre: BOTINES DE FUTBOL KAPPA FORCE FG AZUL, precio: 6499',
+    numSegments: '3',
+    direction: 'outbound-api',
+    from: '+19783545484',
+    to: '+541133107886',
+    dateUpdated: 2022-07-02T00:23:20.000Z,
+    price: null,
+    errorMessage: null,
+    uri: '/2010-04-01/Accounts/ACe33237d597d725bd7e304ea1dde8d937/Messages/SM2676f9d0d3ba4d86bfaaece763d6fbdc.json',
+    accountSid: 'ACe33237d597d725bd7e304ea1dde8d937',
+    numMedia: '0',
+    status: 'queued',
+    messagingServiceSid: null,
+    sid: 'SM2676f9d0d3ba4d86bfaaece763d6fbdc',
+    dateSent: null,
+    dateCreated: 2022-07-02T00:23:20.000Z,
+    errorCode: null,
+    priceUnit: 'USD',
+    apiVersion: '2010-04-01',
+    subresourceUris: {
+      media: '/2010-04-01/Accounts/ACe33237d597d725bd7e304ea1dde8d937/Messages/SM2676f9d0d3ba4d86bfaaece763d6fbdc/Media.json'
+    }
+  },
+  level: 'info',
+  timestamp: '2022-07-02T00:23:20.608Z'
+}
+{
+  message: {
+    accepted: [ 'mgroman96@gmail.com' ],
+    rejected: [],
+    envelopeTime: 615,
+    messageTime: 638,
+    messageSize: 543,
+    response: '250 2.0.0 OK  1656721401 r7-20020a05683002e700b00616a5024ce2sm12912255ote.54 - gsmtp',
+    envelope: {
+      from: 'saige.rolfson3@ethereal.email',
+      to: [ 'mgroman96@gmail.com' ]
+    },
+    messageId: '<a380985e-3470-e4e5-5c00-e0267cd7ad3e@ethereal.email>'
+  },
+  level: 'info',
+  timestamp: '2022-07-02T00:23:21.702Z'
+}

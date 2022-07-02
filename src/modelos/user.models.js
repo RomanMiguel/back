@@ -25,6 +25,9 @@ const Schema = new mongoose.Schema(
     address: {
       type: String,
       requided: true
+    },
+    avatar: {
+      type: String
     }
   },
   {

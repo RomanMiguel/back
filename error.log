@@ -23,3 +23,39 @@
   level: 'error',
   timestamp: '2022-06-27T22:38:33.191Z'
 }
+{
+  status: 400,
+  code: 21608,
+  moreInfo: 'https://www.twilio.com/docs/errors/21608',
+  details: undefined,
+  level: 'error',
+  message: 'Error sms:  The number  is unverified. Trial accounts cannot send messages to unverified numbers; verify  at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers.',
+  stack: 'Error: The number  is unverified. Trial accounts cannot send messages to unverified numbers; verify  at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers.\n' +
+    '    at success (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/twilio/lib/base/Version.js:135:15)\n' +
+    '    at Promise_then_fulfilled (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:766:44)\n' +
+    '    at Promise_done_fulfilled (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:835:31)\n' +
+    '    at Fulfilled_dispatch [as dispatch] (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:1229:9)\n' +
+    '    at Pending_become_eachMessage_task (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:1369:30)\n' +
+    '    at RawTask.call (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/asap/asap.js:40:19)\n' +
+    '    at flush (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/asap/raw.js:50:29)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:78:11)',
+  timestamp: '2022-07-02T00:06:48.068Z'
+}
+{
+  status: 400,
+  code: 21608,
+  moreInfo: 'https://www.twilio.com/docs/errors/21608',
+  details: undefined,
+  level: 'error',
+  message: 'Error sms:  The number  is unverified. Trial accounts cannot send messages to unverified numbers; verify  at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers.',
+  stack: 'Error: The number  is unverified. Trial accounts cannot send messages to unverified numbers; verify  at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers.\n' +
+    '    at success (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/twilio/lib/base/Version.js:135:15)\n' +
+    '    at Promise_then_fulfilled (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:766:44)\n' +
+    '    at Promise_done_fulfilled (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:835:31)\n' +
+    '    at Fulfilled_dispatch [as dispatch] (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:1229:9)\n' +
+    '    at Pending_become_eachMessage_task (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:1369:30)\n' +
+    '    at RawTask.call (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/asap/asap.js:40:19)\n' +
+    '    at flush (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/asap/raw.js:50:29)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:78:11)',
+  timestamp: '2022-07-02T00:12:40.873Z'
+}

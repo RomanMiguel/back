@@ -3,6 +3,7 @@ import { Strategy } from "passport-local";
 import bcrypt from "bcrypt";
 import { UserModel } from "../modelos/user.models.js"
 import logger from "../utils/logger.js"
+import { sendMailGmail } from "./nodemailer.js";
 
 passport.use("signup", new Strategy( { passReqToCallback: true },
 
@@ -28,6 +29,8 @@ passport.use("signup", new Strategy( { passReqToCallback: true },
                 dni: usuario.dni,
                 created_at: new Date()
             });
+
+            sendMailGmail( usuario.username, usuario.fullname, usuario.address, usuario.email, usuario.dni);
 
             return done(null, user);
 
