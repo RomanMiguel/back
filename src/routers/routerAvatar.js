@@ -26,10 +26,4 @@ router.post( "/upload", upload.single("avatar"), (req, res)=>{		// subida de arc
     res.status(200).send ( { msg: "subido con exito" } );
 })
 
-router.get("/:file", async (req, res) => {
-    const file = req.params.file;
-    res.status(200).sendFile(file, { root: "./upload" });
-})
-
-
 export default router;
