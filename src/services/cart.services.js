@@ -9,11 +9,12 @@ export class Cart {
         this.productosDB = ProductosModel
     }
 
-    async newCart () {
+    async newCart ( username ) {
         try{
 
             return await this.carritosDB.create({
                 time: new Date(),
+                username: username,
                 productos: []
             })
 
@@ -79,4 +80,14 @@ export class Cart {
             console.log(`Error al traer carrito: ${id_cart}: `,err)
         }
     }
+
+    async getUserCart ( user ) {
+        try{
+            let carrito = await this.carritosDB.find({username: user});
+            return carrito[0].productos
+        }catch(err) {
+            console.log(`Error al traer carrito: ${user}`,err)
+        }
+    }
+
 }

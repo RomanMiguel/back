@@ -5,6 +5,9 @@ const Schema = new mongoose.Schema({
         type: String,
         required: true,
     },
+    username: {
+        type: String,
+    },
     productos:{
         type: Array
     }

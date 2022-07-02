@@ -1,1438 +1,500 @@
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-15T23:24:51.234Z'
+  timestamp: '2022-07-02T19:39:50.108Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-15T23:24:52.358Z'
+  timestamp: '2022-07-02T19:39:50.698Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-15T23:26:49.990Z'
+  timestamp: '2022-07-02T19:45:39.799Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-15T23:26:50.552Z'
+  timestamp: '2022-07-02T19:45:40.654Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-15T23:27:01.916Z'
+  timestamp: '2022-07-02T19:53:32.514Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-15T23:27:02.440Z'
+  timestamp: '2022-07-02T19:53:33.631Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-15T23:36:05.783Z'
+  timestamp: '2022-07-02T19:53:57.734Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-15T23:36:06.543Z'
+  timestamp: '2022-07-02T19:53:58.848Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-16T00:03:07.336Z'
+  timestamp: '2022-07-02T19:54:21.390Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-16T00:03:07.927Z'
+  timestamp: '2022-07-02T19:54:22.212Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-16T00:03:46.264Z'
+  timestamp: '2022-07-02T19:57:03.862Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-16T00:03:46.792Z'
+  timestamp: '2022-07-02T19:57:04.511Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-16T00:04:11.579Z'
+  timestamp: '2022-07-02T19:59:58.733Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-16T00:04:12.137Z'
+  timestamp: '2022-07-02T19:59:59.450Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-16T00:05:29.337Z'
+  timestamp: '2022-07-02T20:00:26.386Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-16T00:05:30.448Z'
+  timestamp: '2022-07-02T20:00:27.088Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-16T00:07:36.218Z'
+  timestamp: '2022-07-02T20:00:39.442Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-16T00:07:36.796Z'
+  timestamp: '2022-07-02T20:00:40.168Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-16T00:09:20.738Z'
+  timestamp: '2022-07-02T20:01:21.837Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-16T00:09:21.284Z'
+  timestamp: '2022-07-02T20:01:48.209Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-16T22:06:59.854Z'
+  timestamp: '2022-07-02T20:05:36.613Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-16T22:07:00.452Z'
+  timestamp: '2022-07-02T20:05:37.452Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-17T01:50:33.557Z'
+  timestamp: '2022-07-02T20:08:56.206Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-17T01:50:34.139Z'
+  timestamp: '2022-07-02T20:08:56.867Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-17T01:53:19.178Z'
+  timestamp: '2022-07-02T20:09:06.420Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-17T01:53:19.741Z'
+  timestamp: '2022-07-02T20:09:11.991Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-17T02:02:47.718Z'
+  timestamp: '2022-07-02T20:10:21.507Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-17T02:02:48.298Z'
+  timestamp: '2022-07-02T20:10:22.205Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-17T20:17:31.121Z'
+  timestamp: '2022-07-02T20:10:54.440Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-17T20:17:36.700Z'
+  timestamp: '2022-07-02T20:10:54.969Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-17T22:42:53.268Z'
+  timestamp: '2022-07-02T20:11:20.373Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-17T22:42:55.468Z'
+  timestamp: '2022-07-02T20:11:21.031Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-17T22:43:52.816Z'
+  timestamp: '2022-07-02T20:11:37.001Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-17T22:43:53.321Z'
+  timestamp: '2022-07-02T20:11:38.027Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-17T23:09:38.463Z'
+  timestamp: '2022-07-02T20:12:42.974Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-17T23:09:44.247Z'
+  timestamp: '2022-07-02T20:12:44.509Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-18T00:04:57.142Z'
+  timestamp: '2022-07-02T20:13:58.073Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-18T00:05:03.375Z'
+  timestamp: '2022-07-02T20:14:00.608Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-18T00:10:58.540Z'
+  timestamp: '2022-07-02T20:48:44.055Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-18T00:11:04.252Z'
+  timestamp: '2022-07-02T20:48:55.172Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-18T00:12:53.491Z'
+  timestamp: '2022-07-02T20:49:38.081Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-02T20:49:39.190Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-18T00:12:54.060Z'
+  timestamp: '2022-07-02T20:49:39.732Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-18T00:13:04.687Z'
+  timestamp: '2022-07-02T20:51:38.934Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-18T00:13:05.192Z'
+  timestamp: '2022-07-02T20:51:39.657Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-18T00:13:06.141Z'
+  timestamp: '2022-07-02T20:51:50.754Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-18T00:13:06.636Z'
+  timestamp: '2022-07-02T20:51:51.359Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-18T00:13:33.233Z'
+  timestamp: '2022-07-02T20:55:30.755Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-18T00:13:33.728Z'
+  timestamp: '2022-07-02T20:55:32.745Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-18T00:13:43.812Z'
+  timestamp: '2022-07-02T20:56:35.924Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-18T00:13:44.635Z'
+  timestamp: '2022-07-02T20:56:41.550Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-18T00:14:42.997Z'
+  timestamp: '2022-07-02T20:57:27.036Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-18T00:14:44.204Z'
+  timestamp: '2022-07-02T20:57:27.850Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-18T00:15:06.779Z'
+  timestamp: '2022-07-02T20:59:16.998Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-18T00:15:12.284Z'
+  timestamp: '2022-07-02T20:59:23.889Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-18T00:15:35.626Z'
+  timestamp: '2022-07-02T21:02:15.728Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-18T00:15:36.156Z'
+  timestamp: '2022-07-02T21:02:16.558Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-18T00:16:46.691Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-18T00:17:13.156Z'
+  timestamp: '2022-07-02T21:04:13.036Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-18T00:17:13.745Z'
+  timestamp: '2022-07-02T21:04:13.742Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-18T00:17:26.808Z'
+  timestamp: '2022-07-02T21:04:56.868Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-18T00:17:27.312Z'
+  timestamp: '2022-07-02T21:04:57.760Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-18T00:18:06.453Z'
+  timestamp: '2022-07-02T21:05:15.842Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-18T00:18:08.155Z'
-}
-{
-  level: 'info',
-  message: 'Error  data must be a string or Buffer and salt must either be a salt string or a number of rounds',
-  stack: 'Error: data must be a string or Buffer and salt must either be a salt string or a number of rounds\n' +
-    '    at Object.hashSync (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/bcrypt/bcrypt.js:95:15)\n' +
-    '    at Strategy._verify (file:///media/miguel/data/4-BackEnd/Desafios/back/src/utils/passport.js:24:34)\n' +
-    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)',
-  timestamp: '2022-06-18T00:18:12.202Z'
+  timestamp: '2022-07-02T21:05:17.310Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-18T00:20:35.099Z'
+  timestamp: '2022-07-02T21:05:29.831Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-18T00:20:35.681Z'
-}
-{
-  level: 'info',
-  message: 'Error passport signup:  data must be a string or Buffer and salt must either be a salt string or a number of rounds',
-  stack: 'Error: data must be a string or Buffer and salt must either be a salt string or a number of rounds\n' +
-    '    at Object.hashSync (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/bcrypt/bcrypt.js:95:15)\n' +
-    '    at Strategy._verify (file:///media/miguel/data/4-BackEnd/Desafios/back/src/utils/passport.js:24:34)\n' +
-    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)',
-  timestamp: '2022-06-18T00:20:38.559Z'
-}
-{
-  errors: {
-    fullName: ValidatorError: Path `fullName` is required.
-        at validate (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/mongoose/lib/schematype.js:1330:13)
-        at SchemaString.SchemaType.doValidate (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/mongoose/lib/schematype.js:1314:7)
-        at /media/miguel/data/4-BackEnd/Desafios/back/node_modules/mongoose/lib/document.js:2753:18
-        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
-      properties: {
-        validator: [Function (anonymous)],
-        message: 'Path `fullName` is required.',
-        type: 'required',
-        path: 'fullName',
-        value: undefined
-      },
-      kind: 'required',
-      path: 'fullName',
-      value: undefined,
-      reason: undefined,
-      [Symbol(mongoose:validatorError)]: true
-    }
-  },
-  _message: 'Usuarios validation failed',
-  level: 'info',
-  message: 'Error passport signup:  Usuarios validation failed: fullName: Path `fullName` is required.',
-  stack: 'ValidationError: Usuarios validation failed: fullName: Path `fullName` is required.\n' +
-    '    at model.Document.invalidate (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/mongoose/lib/document.js:2972:32)\n' +
-    '    at /media/miguel/data/4-BackEnd/Desafios/back/node_modules/mongoose/lib/document.js:2761:17\n' +
-    '    at /media/miguel/data/4-BackEnd/Desafios/back/node_modules/mongoose/lib/schematype.js:1333:9\n' +
-    '    at processTicksAndRejections (node:internal/process/task_queues:78:11)',
-  timestamp: '2022-06-18T00:21:04.213Z'
+  timestamp: '2022-07-02T21:05:32.777Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-18T00:22:08.995Z'
+  timestamp: '2022-07-02T21:06:15.440Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-18T00:22:09.871Z'
+  timestamp: '2022-07-02T21:06:17.205Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-18T00:22:36.120Z'
+  timestamp: '2022-07-02T21:08:36.752Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-18T00:22:36.941Z'
+  timestamp: '2022-07-02T21:08:51.299Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-18T00:31:14.392Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-06-18T00:31:20.384Z'
+  timestamp: '2022-07-02T21:12:10.278Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-18T00:39:20.054Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-06-18T00:39:20.665Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-18T00:40:53.087Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-06-18T00:40:53.623Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-18T00:42:23.575Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-06-18T00:42:25.269Z'
-}
-{
-  message: 'Usuario no encontrado!',
-  level: 'info',
-  timestamp: '2022-06-18T00:42:43.241Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-18T00:45:20.133Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-06-18T00:45:31.016Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-18T00:51:18.583Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-06-18T00:51:20.148Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-18T01:37:19.443Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-06-18T01:37:20.060Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-18T01:37:56.458Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-06-18T01:37:56.950Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-18T01:46:09.841Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-06-18T01:46:11.833Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-18T01:49:30.269Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-06-18T01:49:31.620Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-18T02:08:27.178Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-06-18T02:08:27.780Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-18T02:09:56.898Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-06-18T02:09:57.452Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-18T22:46:58.387Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-06-18T22:46:59.388Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-19T23:07:00.506Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-06-19T23:07:01.151Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-19T23:10:35.322Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-06-19T23:10:35.968Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-19T23:38:40.774Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-06-19T23:38:41.395Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-19T23:39:03.768Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-06-19T23:39:04.301Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-23T12:42:38.786Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-06-23T12:42:39.418Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-27T22:34:08.660Z'
+  timestamp: '2022-07-02T21:12:28.744Z'
 }
 {
   message: '❌ Error al conectarse a MongoDB',
   level: 'error',
-  timestamp: '2022-06-27T22:34:54.788Z'
+  timestamp: '2022-07-02T21:13:16.493Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-27T22:35:07.787Z'
+  timestamp: '2022-07-02T22:05:08.559Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-02T22:05:14.464Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-02T22:05:52.661Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-02T22:05:53.414Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-02T22:09:40.822Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-02T22:09:41.441Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-02T22:10:22.818Z'
+}
+{
+  message: '🔥 Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-02T22:10:23.368Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-02T22:10:42.974Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-02T22:11:03.228Z'
 }
 {
   message: '❌ Error al conectarse a MongoDB',
   level: 'error',
-  timestamp: '2022-06-27T22:35:07.792Z'
+  timestamp: '2022-07-02T22:11:38.260Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-27T22:35:29.979Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-27T22:36:28.469Z'
-}
-{
-  message: '❌ Error al conectarse a MongoDB',
-  level: 'error',
-  timestamp: '2022-06-27T22:36:28.473Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-27T22:37:21.025Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-27T22:37:51.132Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-27T22:38:02.178Z'
-}
-{
-  message: '❌ Error al conectarse a MongoDB',
-  level: 'error',
-  timestamp: '2022-06-27T22:38:02.184Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-27T22:38:33.186Z'
-}
-{
-  message: '❌ Error al conectarse a MongoDB',
-  level: 'error',
-  timestamp: '2022-06-27T22:38:33.191Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-06-29T22:37:10.438Z'
+  timestamp: '2022-07-02T22:12:40.114Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-29T22:37:11.117Z'
+  timestamp: '2022-07-02T22:12:40.727Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-29T23:30:33.338Z'
+  timestamp: '2022-07-02T22:16:32.967Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-29T23:30:34.053Z'
+  timestamp: '2022-07-02T22:16:35.134Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-30T13:11:28.697Z'
+  timestamp: '2022-07-02T22:16:57.000Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-02T22:17:03.239Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-30T13:11:29.352Z'
+  timestamp: '2022-07-02T22:17:08.636Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-06-30T13:25:32.462Z'
+  timestamp: '2022-07-02T22:18:26.210Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-06-30T13:25:33.060Z'
+  timestamp: '2022-07-02T22:18:26.808Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-07-01T18:55:29.730Z'
+  timestamp: '2022-07-02T22:18:51.395Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-07-01T18:55:30.351Z'
+  timestamp: '2022-07-02T22:18:51.982Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-07-01T18:55:33.220Z'
+  timestamp: '2022-07-02T23:05:54.368Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-07-01T18:55:37.511Z'
-}
-{
-  message: {
-    accepted: [ 'mgroman96@gmail.com' ],
-    rejected: [],
-    envelopeTime: 727,
-    messageTime: 663,
-    messageSize: 464,
-    response: '250 2.0.0 OK  1656702216 n14-20020aca240e000000b00325cda1ffb4sm11681374oic.51 - gsmtp',
-    envelope: {
-      from: 'saige.rolfson3@ethereal.email',
-      to: [ 'mgroman96@gmail.com' ]
-    },
-    messageId: '<3a3ba6cc-d52e-f0a4-9986-aebbfc9ffb18@ethereal.email>'
-  },
-  level: 'info',
-  timestamp: '2022-07-01T19:03:36.467Z'
+  timestamp: '2022-07-02T23:05:56.346Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-07-01T20:33:49.392Z'
+  timestamp: '2022-07-02T23:07:06.462Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-07-01T20:33:51.210Z'
+  timestamp: '2022-07-02T23:07:07.629Z'
 }
 {
   message: 'server started',
   level: 'info',
-  timestamp: '2022-07-01T20:42:05.712Z'
+  timestamp: '2022-07-02T23:14:12.308Z'
 }
 {
   message: '🔥 Conectados a MongoDB',
   level: 'info',
-  timestamp: '2022-07-01T20:42:08.838Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:00:34.531Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:00:50.681Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:00:54.095Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:01:42.974Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:01:45.659Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:01:49.223Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:01:50.802Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:12:26.893Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:12:29.997Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:35:00.949Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:35:01.557Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:36:31.913Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:36:37.901Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:38:49.654Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:38:50.263Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:39:26.393Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:39:26.940Z'
-}
-{
-  message: {
-    accepted: [ 'mgroman96@gmail.com' ],
-    rejected: [],
-    envelopeTime: 893,
-    messageTime: 741,
-    messageSize: 302,
-    response: '250 2.0.0 OK  1656711577 x10-20020a9d704a000000b00616d98ad780sm7275425otj.52 - gsmtp',
-    envelope: {
-      from: 'saige.rolfson3@ethereal.email',
-      to: [ 'mgroman96@gmail.com' ]
-    },
-    messageId: '<a7743867-1526-7ab0-ce4f-a921f1dda75d@ethereal.email>'
-  },
-  level: 'info',
-  timestamp: '2022-07-01T21:39:38.063Z'
-}
-{
-  message: {
-    accepted: [ 'mgroman96@gmail.com' ],
-    rejected: [],
-    envelopeTime: 829,
-    messageTime: 718,
-    messageSize: 310,
-    response: '250 2.0.0 OK  1656711647 f20-20020a0568301c3400b00616dc493267sm6995871ote.58 - gsmtp',
-    envelope: {
-      from: 'saige.rolfson3@ethereal.email',
-      to: [ 'mgroman96@gmail.com' ]
-    },
-    messageId: '<ca1d13c9-5464-f2c1-858b-aa083ee119f6@ethereal.email>'
-  },
-  level: 'info',
-  timestamp: '2022-07-01T21:40:47.346Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:41:42.884Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:41:43.628Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:42:02.120Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:42:02.756Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:42:19.249Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:42:21.794Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:46:20.456Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:46:24.504Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:47:02.222Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:47:14.511Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:49:09.146Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:49:10.048Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:49:41.786Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:49:42.271Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:50:34.701Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:50:35.763Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:51:56.473Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:51:57.028Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:55:03.410Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:55:03.946Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:55:45.803Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:55:46.288Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:56:18.374Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:56:18.887Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:57:34.949Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:57:35.514Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:58:36.420Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:58:36.962Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:58:50.207Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:58:50.712Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T21:59:01.055Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T21:59:01.562Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T22:00:03.314Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T22:00:03.895Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T22:00:15.421Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T22:00:15.949Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T22:00:55.379Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T22:00:55.899Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T22:01:32.410Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T22:01:32.941Z'
-}
-{
-  message: {
-    accepted: [ 'mgroman96@gmail.com' ],
-    rejected: [],
-    envelopeTime: 612,
-    messageTime: 1582,
-    messageSize: 520,
-    response: '250 2.0.0 OK  1656712903 22-20020aca1116000000b003263cf0f282sm11845544oir.26 - gsmtp',
-    envelope: {
-      from: 'saige.rolfson3@ethereal.email',
-      to: [ 'mgroman96@gmail.com' ]
-    },
-    messageId: '<cacea0ac-e61e-9ee5-3b18-6fa4f3305895@ethereal.email>'
-  },
-  level: 'info',
-  timestamp: '2022-07-01T22:01:43.184Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T23:21:14.617Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T23:21:15.234Z'
-}
-{
-  message: {
-    accepted: [ 'mgroman96@gmail.com' ],
-    rejected: [],
-    envelopeTime: 618,
-    messageTime: 753,
-    messageSize: 520,
-    response: '250 2.0.0 OK  1656717700 d9-20020a05683025c900b00616e2d2204csm6665448otu.21 - gsmtp',
-    envelope: {
-      from: 'saige.rolfson3@ethereal.email',
-      to: [ 'mgroman96@gmail.com' ]
-    },
-    messageId: '<77ecfd8a-cda9-f9e8-76a0-31b29849bd90@ethereal.email>'
-  },
-  level: 'info',
-  timestamp: '2022-07-01T23:21:40.817Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-01T23:23:44.814Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-01T23:23:47.739Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-02T00:02:50.269Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-02T00:02:50.881Z'
-}
-{
-  message: {
-    accepted: [ 'mgroman96@gmail.com' ],
-    rejected: [],
-    envelopeTime: 854,
-    messageTime: 825,
-    messageSize: 531,
-    response: '250 2.0.0 OK  1656720177 r19-20020a0568301ad300b0060bfb08741esm13125618otc.12 - gsmtp',
-    envelope: {
-      from: 'saige.rolfson3@ethereal.email',
-      to: [ 'mgroman96@gmail.com' ]
-    },
-    messageId: '<52e4112a-9e11-486f-33ad-1ea8d390ec7b@ethereal.email>'
-  },
-  level: 'info',
-  timestamp: '2022-07-02T00:02:57.560Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-02T00:05:21.214Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-02T00:05:22.425Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-02T00:06:37.647Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-02T00:06:38.240Z'
-}
-{
-  status: 400,
-  code: 21608,
-  moreInfo: 'https://www.twilio.com/docs/errors/21608',
-  details: undefined,
-  level: 'error',
-  message: 'Error sms:  The number  is unverified. Trial accounts cannot send messages to unverified numbers; verify  at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers.',
-  stack: 'Error: The number  is unverified. Trial accounts cannot send messages to unverified numbers; verify  at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers.\n' +
-    '    at success (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/twilio/lib/base/Version.js:135:15)\n' +
-    '    at Promise_then_fulfilled (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:766:44)\n' +
-    '    at Promise_done_fulfilled (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:835:31)\n' +
-    '    at Fulfilled_dispatch [as dispatch] (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:1229:9)\n' +
-    '    at Pending_become_eachMessage_task (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:1369:30)\n' +
-    '    at RawTask.call (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/asap/asap.js:40:19)\n' +
-    '    at flush (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/asap/raw.js:50:29)\n' +
-    '    at processTicksAndRejections (node:internal/process/task_queues:78:11)',
-  timestamp: '2022-07-02T00:06:48.068Z'
-}
-{
-  message: {
-    accepted: [ 'mgroman96@gmail.com' ],
-    rejected: [],
-    envelopeTime: 642,
-    messageTime: 779,
-    messageSize: 543,
-    response: '250 2.0.0 OK  1656720409 p12-20020a9d4e0c000000b00616ec82b29bsm5694445otf.35 - gsmtp',
-    envelope: {
-      from: 'saige.rolfson3@ethereal.email',
-      to: [ 'mgroman96@gmail.com' ]
-    },
-    messageId: '<0bfc53e4-442e-6a31-060d-959c7e9dcbfc@ethereal.email>'
-  },
-  level: 'info',
-  timestamp: '2022-07-02T00:06:49.349Z'
-}
-{
-  status: 400,
-  code: 21608,
-  moreInfo: 'https://www.twilio.com/docs/errors/21608',
-  details: undefined,
-  level: 'error',
-  message: 'Error sms:  The number  is unverified. Trial accounts cannot send messages to unverified numbers; verify  at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers.',
-  stack: 'Error: The number  is unverified. Trial accounts cannot send messages to unverified numbers; verify  at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers.\n' +
-    '    at success (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/twilio/lib/base/Version.js:135:15)\n' +
-    '    at Promise_then_fulfilled (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:766:44)\n' +
-    '    at Promise_done_fulfilled (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:835:31)\n' +
-    '    at Fulfilled_dispatch [as dispatch] (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:1229:9)\n' +
-    '    at Pending_become_eachMessage_task (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/q/q.js:1369:30)\n' +
-    '    at RawTask.call (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/asap/asap.js:40:19)\n' +
-    '    at flush (/media/miguel/data/4-BackEnd/Desafios/back/node_modules/asap/raw.js:50:29)\n' +
-    '    at processTicksAndRejections (node:internal/process/task_queues:78:11)',
-  timestamp: '2022-07-02T00:12:40.873Z'
-}
-{
-  message: {
-    accepted: [ 'mgroman96@gmail.com' ],
-    rejected: [],
-    envelopeTime: 689,
-    messageTime: 629,
-    messageSize: 543,
-    response: '250 2.0.0 OK  1656720762 l6-20020a056871068600b000f5eb6b409bsm16419792oao.45 - gsmtp',
-    envelope: {
-      from: 'saige.rolfson3@ethereal.email',
-      to: [ 'mgroman96@gmail.com' ]
-    },
-    messageId: '<1f5491e2-6c8f-eac3-06e7-5796038a0d6d@ethereal.email>'
-  },
-  level: 'info',
-  timestamp: '2022-07-02T00:12:42.210Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-02T00:15:48.471Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-02T00:15:49.102Z'
-}
-{
-  message: {
-    body: 'Sent from your Twilio trial account - Su pedido fue recibido y se encuentra en proceso\n' +
-      '        PEDIDOS:\n' +
-      '        nombre: BOTINES DE FUTBOL KAPPA FORCE FG AZUL, precio: 6499\n' +
-      '            ,nombre: BOTINES DE FUTBOL KAPPA FORCE FG AZUL, precio: 6499\n' +
-      '            ,nombre: BOTINES DE FUTBOL KAPPA FORCE FG AZUL, precio: 6499',
-    numSegments: '3',
-    direction: 'outbound-api',
-    from: '+19783545484',
-    to: '+541133107886',
-    dateUpdated: 2022-07-02T00:15:52.000Z,
-    price: null,
-    errorMessage: null,
-    uri: '/2010-04-01/Accounts/ACe33237d597d725bd7e304ea1dde8d937/Messages/SM24503d1a3789453b97b425e0fe9e58bd.json',
-    accountSid: 'ACe33237d597d725bd7e304ea1dde8d937',
-    numMedia: '0',
-    status: 'queued',
-    messagingServiceSid: null,
-    sid: 'SM24503d1a3789453b97b425e0fe9e58bd',
-    dateSent: null,
-    dateCreated: 2022-07-02T00:15:52.000Z,
-    errorCode: null,
-    priceUnit: 'USD',
-    apiVersion: '2010-04-01',
-    subresourceUris: {
-      media: '/2010-04-01/Accounts/ACe33237d597d725bd7e304ea1dde8d937/Messages/SM24503d1a3789453b97b425e0fe9e58bd/Media.json'
-    }
-  },
-  level: 'info',
-  timestamp: '2022-07-02T00:15:52.727Z'
-}
-{
-  message: {
-    accepted: [ 'mgroman96@gmail.com' ],
-    rejected: [],
-    envelopeTime: 650,
-    messageTime: 745,
-    messageSize: 543,
-    response: '250 2.0.0 OK  1656720953 x27-20020a9d459b000000b0060c0c6e9186sm8347923ote.15 - gsmtp',
-    envelope: {
-      from: 'saige.rolfson3@ethereal.email',
-      to: [ 'mgroman96@gmail.com' ]
-    },
-    messageId: '<3b1e6951-6f69-a736-5da5-919d2a9c4aad@ethereal.email>'
-  },
-  level: 'info',
-  timestamp: '2022-07-02T00:15:53.935Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-02T00:20:40.404Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-02T00:20:41.164Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-02T00:20:47.356Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-02T00:20:47.959Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-02T00:21:11.002Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-02T00:21:11.562Z'
-}
-{
-  message: {
-    body: 'Sent from your Twilio trial account - Su pedido fue recibido y se encuentra en proceso\n' +
-      '        PEDIDOS:\n' +
-      '        nombre: BOTINES DE FUTBOL KAPPA FORCE FG AZUL, precio: 6499\n' +
-      '            ,nombre: BOTINES DE FUTBOL KAPPA FORCE FG AZUL, precio: 6499\n' +
-      '            ,nombre: BOTINES DE FUTBOL KAPPA FORCE FG AZUL, precio: 6499',
-    numSegments: '3',
-    direction: 'outbound-api',
-    from: '+19783545484',
-    to: '+541133107886',
-    dateUpdated: 2022-07-02T00:21:23.000Z,
-    price: null,
-    errorMessage: null,
-    uri: '/2010-04-01/Accounts/ACe33237d597d725bd7e304ea1dde8d937/Messages/SM912ea94d83324811a002d4a3482cbcc1.json',
-    accountSid: 'ACe33237d597d725bd7e304ea1dde8d937',
-    numMedia: '0',
-    status: 'queued',
-    messagingServiceSid: null,
-    sid: 'SM912ea94d83324811a002d4a3482cbcc1',
-    dateSent: null,
-    dateCreated: 2022-07-02T00:21:23.000Z,
-    errorCode: null,
-    priceUnit: 'USD',
-    apiVersion: '2010-04-01',
-    subresourceUris: {
-      media: '/2010-04-01/Accounts/ACe33237d597d725bd7e304ea1dde8d937/Messages/SM912ea94d83324811a002d4a3482cbcc1/Media.json'
-    }
-  },
-  level: 'info',
-  timestamp: '2022-07-02T00:21:23.772Z'
-}
-{
-  message: {
-    accepted: [ 'mgroman96@gmail.com' ],
-    rejected: [],
-    envelopeTime: 587,
-    messageTime: 766,
-    messageSize: 543,
-    response: '250 2.0.0 OK  1656721284 i16-20020a05683033f000b00616b835f5e7sm11542145otu.43 - gsmtp',
-    envelope: {
-      from: 'saige.rolfson3@ethereal.email',
-      to: [ 'mgroman96@gmail.com' ]
-    },
-    messageId: '<c5f97562-b17a-7a15-6ba7-7ec78f6d43a2@ethereal.email>'
-  },
-  level: 'info',
-  timestamp: '2022-07-02T00:21:24.874Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-02T00:23:14.415Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-02T00:23:15.109Z'
-}
-{
-  message: {
-    body: 'Sent from your Twilio trial account - Su pedido fue recibido y se encuentra en proceso\n' +
-      '        PEDIDOS:\n' +
-      '        nombre: BOTINES DE FUTBOL KAPPA FORCE FG AZUL, precio: 6499\n' +
-      '            ,nombre: BOTINES DE FUTBOL KAPPA FORCE FG AZUL, precio: 6499\n' +
-      '            ,nombre: BOTINES DE FUTBOL KAPPA FORCE FG AZUL, precio: 6499',
-    numSegments: '3',
-    direction: 'outbound-api',
-    from: '+19783545484',
-    to: '+541133107886',
-    dateUpdated: 2022-07-02T00:23:20.000Z,
-    price: null,
-    errorMessage: null,
-    uri: '/2010-04-01/Accounts/ACe33237d597d725bd7e304ea1dde8d937/Messages/SM2676f9d0d3ba4d86bfaaece763d6fbdc.json',
-    accountSid: 'ACe33237d597d725bd7e304ea1dde8d937',
-    numMedia: '0',
-    status: 'queued',
-    messagingServiceSid: null,
-    sid: 'SM2676f9d0d3ba4d86bfaaece763d6fbdc',
-    dateSent: null,
-    dateCreated: 2022-07-02T00:23:20.000Z,
-    errorCode: null,
-    priceUnit: 'USD',
-    apiVersion: '2010-04-01',
-    subresourceUris: {
-      media: '/2010-04-01/Accounts/ACe33237d597d725bd7e304ea1dde8d937/Messages/SM2676f9d0d3ba4d86bfaaece763d6fbdc/Media.json'
-    }
-  },
-  level: 'info',
-  timestamp: '2022-07-02T00:23:20.608Z'
-}
-{
-  message: {
-    accepted: [ 'mgroman96@gmail.com' ],
-    rejected: [],
-    envelopeTime: 615,
-    messageTime: 638,
-    messageSize: 543,
-    response: '250 2.0.0 OK  1656721401 r7-20020a05683002e700b00616a5024ce2sm12912255ote.54 - gsmtp',
-    envelope: {
-      from: 'saige.rolfson3@ethereal.email',
-      to: [ 'mgroman96@gmail.com' ]
-    },
-    messageId: '<a380985e-3470-e4e5-5c00-e0267cd7ad3e@ethereal.email>'
-  },
-  level: 'info',
-  timestamp: '2022-07-02T00:23:21.702Z'
-}
-{
-  message: 'server started',
-  level: 'info',
-  timestamp: '2022-07-02T00:34:44.923Z'
-}
-{
-  message: '🔥 Conectados a MongoDB',
-  level: 'info',
-  timestamp: '2022-07-02T00:34:45.443Z'
+  timestamp: '2022-07-02T23:14:18.271Z'
 }

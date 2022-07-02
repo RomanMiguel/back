@@ -4,10 +4,14 @@ import { sms, whatsapp } from "../utils/twilio.js";
 
 let dataCart = new Cart()
 
-export const createCart = async ( req, res ) => 
+export const createCart = async ( req, res ) => {
+    
+    const {username} = req.params
+
     res.status(200).json(
-        await dataCart.newCart()
+        await dataCart.newCart(username)
     )
+}
 
 export const deleteCart = async (req, res) => 
     res.status(200).json(
@@ -17,6 +21,11 @@ export const deleteCart = async (req, res) =>
 export const getAllProducts = async (req, res) =>
     res.status(200).json( 
         await dataCart.getAllProducts ( req.params.id_cart )
+    )
+
+export const getUserProducts = async (req, res) =>
+    res.status(200).json( 
+        await dataCart.getUserCart ( req.params.username )
     )
 
 export const sendOrder = async ( req, res ) => {

@@ -1,13 +1,15 @@
 import { Router } from 'express'
-import { sendOrder, createCart, deleteCart, getAllProducts, addProduct, deleteProduct } from '../controllers/controllerCarts.js'
+import { getUserProducts, sendOrder, createCart, deleteCart, getAllProducts, addProduct, deleteProduct } from '../controllers/controllerCarts.js'
 
 const router = Router();
 
-router.post     ('/'        , createCart )
+router.post     ('/:username'   , createCart )
 
-router.delete   ('/:id_cart', deleteCart )
+router.delete   ('/:id_cart'    , deleteCart )
 
 router.get      ('/:id_cart/productos'          , getAllProducts )
+
+router.get      ('/:username'         , getUserProducts )
 
 router.get      ('/:id_cart/order'              , sendOrder )
 
