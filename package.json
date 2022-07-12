@@ -1,13 +1,13 @@
 {
   "name": "back",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./src/index.js",
-    "dev": "nodemon ./src/index.js",
+    "dev": "nodemon ./src/index.js mongo",
+    "deb": "nodemon ./src/index.js file",
     "cluster": "node ./src/indexCluster.js"
   },
   "keywords": [],
@@ -30,5 +30,14 @@
     "passport-local": "^1.0.0",
     "twilio": "^3.78.0",
     "winston": "^3.7.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanMiguel/back.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RomanMiguel/back/issues"
+  },
+  "homepage": "https://github.com/RomanMiguel/back#readme",
+  "description": ""
 }

@@ -7,7 +7,7 @@ import compression from "compression";
 import { routerCart, routerProducts, routerUser, routerInfo, routerAvatar } from "./routers/index.js";
 import { passport, logger } from "./utils/index.js";
 
-import "./config/db.js"
+// import "./config/db.js"
 
 const app = express();
 

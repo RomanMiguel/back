@@ -8,3 +8,154 @@
   level: 'error',
   timestamp: '2022-07-02T22:11:38.260Z'
 }
+{
+  message: '❌ Error al conectarse a MongoDB',
+  level: 'error',
+  timestamp: '2022-07-10T23:17:56.065Z'
+}
+{
+  message: 'Error al conectarde a mongo:  getaddrinfo EAI_AGAIN coderhouse-shard-00-02.meh5d.mongodb.net',
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'coderhouse-shard-00-01.meh5d.mongodb.net:27017' => ServerDescription {
+        _hostAddress: new HostAddress('coderhouse-shard-00-01.meh5d.mongodb.net:27017'),
+        address: 'coderhouse-shard-00-01.meh5d.mongodb.net:27017',
+        type: 'RSSecondary',
+        hosts: [
+          'coderhouse-shard-00-00.meh5d.mongodb.net:27017',
+          'coderhouse-shard-00-01.meh5d.mongodb.net:27017',
+          'coderhouse-shard-00-02.meh5d.mongodb.net:27017'
+        ],
+        passives: [],
+        arbiters: [],
+        tags: {
+          workloadType: 'OPERATIONAL',
+          region: 'SA_EAST_1',
+          nodeType: 'ELECTABLE',
+          provider: 'AWS'
+        },
+        minWireVersion: 0,
+        maxWireVersion: 13,
+        roundTripTime: 15164,
+        lastUpdateTime: 15927907,
+        lastWriteDate: 2022-07-10T23:45:06.000Z,
+        topologyVersion: {
+          processId: new ObjectId("62ab64f9fcf540723eb68be3"),
+          counter: 3
+        },
+        primary: 'coderhouse-shard-00-02.meh5d.mongodb.net:27017',
+        me: 'coderhouse-shard-00-01.meh5d.mongodb.net:27017',
+        setName: 'atlas-10fkeg-shard-0',
+        setVersion: 1,
+        logicalSessionTimeoutMinutes: 30,
+        '$clusterTime': {
+          clusterTime: new Timestamp({ t: 1657496706, i: 1 }),
+          signature: {
+            hash: new Binary(Buffer.from("097b12a7f6dba196f021eb3522512cfac6928af5", "hex"), 0),
+            keyId: new Long("7083616606978310150")
+          }
+        }
+      },
+      'coderhouse-shard-00-00.meh5d.mongodb.net:27017' => ServerDescription {
+        _hostAddress: new HostAddress('coderhouse-shard-00-00.meh5d.mongodb.net:27017'),
+        address: 'coderhouse-shard-00-00.meh5d.mongodb.net:27017',
+        type: 'RSSecondary',
+        hosts: [
+          'coderhouse-shard-00-00.meh5d.mongodb.net:27017',
+          'coderhouse-shard-00-01.meh5d.mongodb.net:27017',
+          'coderhouse-shard-00-02.meh5d.mongodb.net:27017'
+        ],
+        passives: [],
+        arbiters: [],
+        tags: {
+          nodeType: 'ELECTABLE',
+          region: 'SA_EAST_1',
+          provider: 'AWS',
+          workloadType: 'OPERATIONAL'
+        },
+        minWireVersion: 0,
+        maxWireVersion: 13,
+        roundTripTime: 13998.400000000001,
+        lastUpdateTime: 15925091,
+        lastWriteDate: 2022-07-10T23:45:03.000Z,
+        topologyVersion: {
+          processId: new ObjectId("62ab6267bd4c686f097c7e1e"),
+          counter: 4
+        },
+        primary: 'coderhouse-shard-00-02.meh5d.mongodb.net:27017',
+        me: 'coderhouse-shard-00-00.meh5d.mongodb.net:27017',
+        setName: 'atlas-10fkeg-shard-0',
+        setVersion: 1,
+        logicalSessionTimeoutMinutes: 30,
+        '$clusterTime': {
+          clusterTime: new Timestamp({ t: 1657496703, i: 1 }),
+          signature: {
+            hash: <Buffer 92 81 97 83 b5 29 07 5a 72 e1 fc 37 30 19 d4 90 6c 22 a4 60>,
+            keyId: new Long("7083616606978310150")
+          }
+        }
+      },
+      'coderhouse-shard-00-02.meh5d.mongodb.net:27017' => ServerDescription {
+        _hostAddress: new HostAddress('coderhouse-shard-00-02.meh5d.mongodb.net:27017'),
+        address: 'coderhouse-shard-00-02.meh5d.mongodb.net:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        lastUpdateTime: 15923938,
+        lastWriteDate: 0,
+        error: MongoNetworkError: getaddrinfo EAI_AGAIN coderhouse-shard-00-02.meh5d.mongodb.net
+            at connectionFailureError (/home/miguel/Documentos/FullStack/5-Back/Desafios/back/node_modules/mongodb/lib/cmap/connect.js:375:20)
+            at TLSSocket.<anonymous> (/home/miguel/Documentos/FullStack/5-Back/Desafios/back/node_modules/mongodb/lib/cmap/connect.js:295:22)
+            at Object.onceWrapper (node:events:642:26)
+            at TLSSocket.emit (node:events:527:28)
+            at emitErrorNT (node:internal/streams/destroy:157:8)
+            at emitErrorCloseNT (node:internal/streams/destroy:122:3)
+            at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+          [Symbol(errorLabels)]: Set(0) {}
+        }
+      }
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-10fkeg-shard-0',
+    commonWireVersion: 13,
+    logicalSessionTimeoutMinutes: 30
+  },
+  code: undefined,
+  level: 'error',
+  stack: 'MongooseServerSelectionError: getaddrinfo EAI_AGAIN coderhouse-shard-00-02.meh5d.mongodb.net\n' +
+    '    at NativeConnection.Connection.openUri (/home/miguel/Documentos/FullStack/5-Back/Desafios/back/node_modules/mongoose/lib/connection.js:807:32)\n' +
+    '    at /home/miguel/Documentos/FullStack/5-Back/Desafios/back/node_modules/mongoose/lib/index.js:344:10\n' +
+    '    at /home/miguel/Documentos/FullStack/5-Back/Desafios/back/node_modules/mongoose/lib/helpers/promiseOrCallback.js:32:5\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at promiseOrCallback (/home/miguel/Documentos/FullStack/5-Back/Desafios/back/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:10)\n' +
+    '    at Mongoose._promiseOrCallback (/home/miguel/Documentos/FullStack/5-Back/Desafios/back/node_modules/mongoose/lib/index.js:1182:10)\n' +
+    '    at Mongoose.connect (/home/miguel/Documentos/FullStack/5-Back/Desafios/back/node_modules/mongoose/lib/index.js:343:20)\n' +
+    '    at productosDaoMongo.connect (file:///home/miguel/Documentos/FullStack/5-Back/Desafios/back/src/services/daos/productosDaoMongo.js:15:28)\n' +
+    '    at file:///home/miguel/Documentos/FullStack/5-Back/Desafios/back/src/services/daos/productosDaoFactory.js:14:13\n' +
+    '    at ModuleJob.run (node:internal/modules/esm/module_job:198:25)',
+  timestamp: '2022-07-10T23:45:07.577Z'
+}
+{
+  message: 'Error a guardar archivo productos.json',
+  level: 'error',
+  timestamp: '2022-07-11T21:56:10.054Z'
+}
+{
+  message: 'Error a guardar archivo productos.json',
+  level: 'error',
+  timestamp: '2022-07-11T21:58:17.693Z'
+}
+{
+  message: 'Error: Id incorrecto',
+  level: 'error',
+  timestamp: '2022-07-11T22:26:40.196Z'
+}

@@ -1,38 +1,45 @@
-import "../config/db.js"
-import { ProductosModel } from "../modelos/productos.modules.js"
+import ProductosDaoFactory from "./daos/productosDaoFactory.js"
+import {asDto} from "./dtos/productosDto.js";
+
+const productosDao = new ProductosDaoFactory;
 
 export class Contenedor {
     
     constructor () {
-        this.productosDB = ProductosModel
+        this.productosDB = productosDao;
     }
 
     async save ( object ) {
-        return await this.productosDB.create(object)
+        return await this.productosDB.save(object)
     }
 
-    async getById ( id ) {
-        return await this.productosDB.findOne({_id:id})
-    }
-
-    async getAll () {
-        return await this.productosDB.find({})
+    async get (id) {
+        
+        if ( id ) {
+            let prod = await this.productosDB.getById(id)
+            if(prod.msg)
+                return prod.msg
+            return asDto(prod)
+        } else {
+            let prod = await this.productosDB.getAll()
+            return asDto(prod)
+        }
     }
 
     async delete (id) {            
-
-        const res = await this.productosDB.deleteOne({_id:id})
-        
-        if ( res.deletedCount == 0)                                                       
-            return `error al eliminar el producto id:${id}`
-        return res
-    }
-
-    async deleteAll () {
-        return await this.productosDB.deleteMany({})
+        if(id) {
+            const res = await this.productosDB.delete( id )
+            
+            if ( res.deletedCount == 0)                                                       
+                return `error al eliminar el producto id:${id}`
+            
+            return res
+        } else {
+            return await this.productosDB.deleteAll()
+        }
     }
     
     async update ( ID, object ) {
-        return await this.productosDB.updateOne({_id:ID}, object)
+        return await this.productosDB.update( ID, object )
     }
 }
