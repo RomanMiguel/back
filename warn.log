@@ -1708,3 +1708,163 @@
   level: 'info',
   timestamp: '2022-07-12T13:15:45.228Z'
 }
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-15T12:44:04.429Z'
+}
+{
+  message: 'Conectado a Mongo',
+  level: 'info',
+  timestamp: '2022-07-15T12:44:05.040Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-15T13:09:06.985Z'
+}
+{
+  message: 'Conectado a Mongo',
+  level: 'info',
+  timestamp: '2022-07-15T13:09:07.543Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T18:14:38.510Z'
+}
+{
+  message: 'Conectado a Mongo',
+  level: 'info',
+  timestamp: '2022-07-16T18:14:39.120Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T18:30:51.065Z'
+}
+{
+  message: 'Conectado a Mongo',
+  level: 'info',
+  timestamp: '2022-07-16T18:30:51.646Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T18:33:46.960Z'
+}
+{
+  message: 'Conectado a Mongo',
+  level: 'info',
+  timestamp: '2022-07-16T18:33:47.523Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T18:35:20.428Z'
+}
+{
+  message: 'Conectado a Mongo',
+  level: 'info',
+  timestamp: '2022-07-16T18:35:32.039Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T18:36:02.691Z'
+}
+{
+  message: 'Conectado a Mongo',
+  level: 'info',
+  timestamp: '2022-07-16T18:36:03.268Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T18:36:17.431Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T18:53:33.806Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T18:53:52.620Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T18:54:55.286Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T18:56:18.471Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T22:03:53.751Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T22:04:00.451Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T22:05:13.021Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T22:05:25.427Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T22:06:05.384Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T22:10:26.742Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T22:11:56.020Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T22:12:19.294Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T22:14:23.913Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T22:15:15.728Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T22:20:12.133Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T22:20:27.061Z'
+}
+{
+  message: 'server started',
+  level: 'info',
+  timestamp: '2022-07-16T22:24:11.775Z'
+}
